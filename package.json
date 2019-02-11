@@ -3,34 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
-<<<<<<< HEAD
-  "dependencies": {},
-  "devDependencies": {
-    "webpack": "^4.29.0",
-    "webpack-cli": "^3.2.1"
-  },
-  "scripts": {
-=======
   "scripts": {
     "prod": "./node_modules/.bin/webpack --config webpack.production.js -p",
     "webpack:dev": "./node_modules/.bin/webpack -w",
     "webpack": "./node_modules/.bin/webpack",
-<<<<<<< HEAD
->>>>>>> d32dad32177de5e5be2600392aaab2c8f0c6ecb6
-=======
     "start": "./node_modules/.bin/webpack-dev-server",
->>>>>>> f54ee088c713c6dc5cac76568a883f8d5efc464b
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
-    "url": "https://gitlab.keepcoding.io/bootcamp-web-vi/mod-front-end-avanzad.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-=======
     "url": "git@gitlab.keepcoding.io:bootcamp-web-vi/mod-front-end-avanzad.git"
   },
   "author": "",
@@ -60,5 +41,4 @@
     "escape-html": "^1.0.3",
     "striptags": "^3.1.1"
   }
->>>>>>> d32dad32177de5e5be2600392aaab2c8f0c6ecb6
 }
