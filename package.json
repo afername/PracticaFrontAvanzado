@@ -1,0 +1,23 @@
+{
+  "name": "frontavanzado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afername/PracticaFrontAvanzado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afername/PracticaFrontAvanzado/issues"
+  },
+  "homepage": "https://github.com/afername/PracticaFrontAvanzado#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  }
+}
